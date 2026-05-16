@@ -1,2 +1,2 @@
-nombre = "Freddy Estrada LLanquipacha"
+nombre = "Freddy Estrada sin materno"
 print("hola " + nombre)
